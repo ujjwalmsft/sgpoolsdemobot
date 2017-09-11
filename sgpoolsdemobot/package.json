@@ -1,0 +1,23 @@
+{
+  "name": "bankbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "applicationinsights": "^0.18.0",
+    "async": "^2.1.4",
+    "botbuilder": "^3.5.1",
+    "mongodb": "^2.2.19",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1",
+    "restify": "^4.3.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
